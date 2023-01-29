@@ -1,2 +1,2 @@
 # node-express-setup
-Initial setup files for a node express project using typescript, postgres, prettier, and eslint.
+Initial setup files for a node project using express, typescript, postgres, prettier, and eslint.
